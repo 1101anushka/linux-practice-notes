@@ -17,7 +17,7 @@ I connected to the instance using SSH from my local machine (Git Bash).
 ### Configuration:
 - Name: linux-practice
 - AMI: Ubuntu (latest LTS)
-- Instance type: t2.micro (free tier)
+- Instance type: t3.micro (free tier)
 - Key pair: Created new `.pem` file
 - Network: Allowed SSH (Port 22)
 
